@@ -16,7 +16,8 @@
 				"mutantdino.resourcemonitor",
 				"Gruntfuggly.todo-tree",
 				"ms-dotnettools.csdevkit",
-				"ms-dotnettools.vscodeintellicode-csharp"
+				"ms-dotnettools.vscodeintellicode-csharp",
+				"ms-dotnettools.csharp"
 			]
 		}
 	}
